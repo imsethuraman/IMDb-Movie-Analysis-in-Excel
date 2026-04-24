@@ -1,4 +1,4 @@
-# -IMDb-Movie-Analysis-in-Excel
+# IMDb-Movie-Analysis-in-Excel
 This repository contains an Excel workbook for analyzing IMDb movie data. It offers a comprehensive set of worksheets and formulas to explore and gain insights from movie metadata, ratings, and reviews available on the IMDb platform.
 
 <img width="1280" height="720" alt="IMDB Movie Analysis" src="https://github.com/user-attachments/assets/c0719a5e-4b8f-4015-b64b-1a1715f93af3" />
